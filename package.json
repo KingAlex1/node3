@@ -1,0 +1,27 @@
+{
+  "name": "hwExpress",
+  "version": "1.0.0",
+  "description": "![Скриншот проекта](https://loftschool.com/uploads/course_logos/nodejs.svg?v=1513152963369)",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "formidable": "^1.1.1",
+    "morgan": "~1.9.0",
+    "nconf": "^0.10.0",
+    "nodemailer": "^4.4.1",
+    "pug": "2.0.0-beta11",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
